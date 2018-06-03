@@ -4,7 +4,6 @@ source "https://rubygems.org"
 #gem "sass"
     gem "bcrypt"
     #gem "coffee-script"
-    gem 'mongoid'
     gem 'sqlite3'
     gem 'rspec'
     gem 'sinatra'
